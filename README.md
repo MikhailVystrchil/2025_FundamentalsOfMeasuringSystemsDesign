@@ -12,3 +12,8 @@
 ## Лекция 2
 
 [Аналоговый сигнал](https://disk.yandex.ru/i/CJLPeptd5-7bxg)
+
+## Лекция 3
+
+[RGB Светодиод. Функции и рефакторинг кода](https://disk.yandex.ru/i/V4U2ykbgXwZBBg)
+

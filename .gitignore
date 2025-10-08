@@ -1,5 +1,9 @@
 
 .DS_Store
 
-Lectures/
+
 Code/
+
+*.pptx
+
+Lectures/.ipynb_checkpoints/
