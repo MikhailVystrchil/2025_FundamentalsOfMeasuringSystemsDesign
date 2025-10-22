@@ -17,3 +17,8 @@
 
 [RGB Светодиод. Функции и рефакторинг кода](https://disk.yandex.ru/i/V4U2ykbgXwZBBg)
 
+## Лекция 4
+
+[Коллекции. Адресная светодиодная лента](https://disk.yandex.ru/i/nwThmEvWk0ycbg)
+
+
