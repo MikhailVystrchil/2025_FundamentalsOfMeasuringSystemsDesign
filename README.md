@@ -21,4 +21,6 @@
 
 [Коллекции. Адресная светодиодная лента](https://disk.yandex.ru/i/nwThmEvWk0ycbg)
 
+## Лекция 5
 
+[Основы ООП](https://disk.yandex.ru/i/0sSCn9jPVhI7PA)
