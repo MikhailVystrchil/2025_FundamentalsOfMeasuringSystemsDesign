@@ -24,3 +24,8 @@
 ## Лекция 5
 
 [Основы ООП](https://disk.yandex.ru/i/0sSCn9jPVhI7PA)
+
+## Лекция 6
+
+[Агрегация и композиция. Итераторы в ООП](https://disk.yandex.ru/i/IvGsX8Wm9cCM2w)
+
